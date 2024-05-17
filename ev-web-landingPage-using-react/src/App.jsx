@@ -4,6 +4,8 @@ import Navbar from "./Components/Navbar/Navbar";
 import Hero from "./Components/Hero/Hero";
 
 const App = () => {
+
+  
   let heroData = [
     { text1: "Dive into", text2: "what you love" },
     { text1: "Indulge", text2: "your passions" },
